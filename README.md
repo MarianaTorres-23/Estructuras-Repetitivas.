@@ -6,23 +6,25 @@ NC:24150837
 
 Desarrolla en Python los siguientes 5 programas utilizando ciclos (for o while):
 
-Contador de dígitos:
+1-Contador de dígitos:
 
 Cuenta cuántos dígitos tiene un número entero.
 
-FizzBuzz: 
+
+2-FizzBuzz: 
 
 pide un número n e imprime los números del 1 al n, pero:
 Si el número es múltiplo de 3, imprime "Fizz".
 Si el número es múltiplo de 5, imprime "Buzz".
 Si es múltiplo de ambos, imprime "FizzBuzz".
 
-Número invertido:
+3-Número invertido:
 
 Invierte los dígitos de un número entero.
-Suma de pares e impares:
+
+4-Suma de pares e impares:
 Calcula por separado la suma de los pares y de los impares hasta n.
 
-Pirámide de asteriscos:
+5-Pirámide de asteriscos:
 
 Dibuja una pirámide de altura n.
