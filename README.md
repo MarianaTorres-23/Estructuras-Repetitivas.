@@ -9,7 +9,10 @@ Desarrolla en Python los siguientes 5 programas utilizando ciclos (for o while):
 Contador de dígitos:
 
 Cuenta cuántos dígitos tiene un número entero.
-FizzBuzz: pide un número n e imprime los números del 1 al n, pero:
+
+FizzBuzz: 
+
+pide un número n e imprime los números del 1 al n, pero:
 Si el número es múltiplo de 3, imprime "Fizz".
 Si el número es múltiplo de 5, imprime "Buzz".
 Si es múltiplo de ambos, imprime "FizzBuzz".
